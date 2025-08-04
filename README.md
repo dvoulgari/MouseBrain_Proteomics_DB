@@ -1,5 +1,7 @@
 # MouseBrain_Proteomics_DB
 
+Group Project (4 Members)
+
 ## Introduction
 This project is the **final assignment for the Biotechnology course**, focusing on **omics data processing and database design**.  
 The aim is to **analyze, evaluate, and present proteomics data** derived from **mouse brain regions**, integrating results from different sources and performing **functional annotation** using **Gene Ontology (GO)**.
